@@ -9,7 +9,7 @@ import Matching from "../assets/Sidebar/Matching.png";
 import Gestion from "../assets/Sidebar/Gestion.png";
 import Marketing from "../assets/Sidebar/Marketing.png";
 import Portafolio from "../assets/Sidebar/Portafolio.png";
-import usuario from "../assets/Sidebar/Usuario.png";
+import usuario from "../assets/Sidebar/usuario.png";
 import roles from "../assets/Sidebar/Rol.png";
 import Cerrar from "../assets/Sidebar/Cerrar.png";
 import { ChevronDown } from "lucide-react";

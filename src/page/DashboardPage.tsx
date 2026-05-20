@@ -6,9 +6,9 @@ import Earth2 from "../assets/ItemsDashboard/Earth2.png";
 import addPeople from "../assets/ItemsDashboard/addPeople.png";
 import foco from "../assets/ItemsDashboard/foco.png";
 import ubicacion from "../assets/ItemsDashboard/ubicacion.png";
-import star4 from "../assets/ItemsDashboard/star4.png";
-import fecha from "../assets/ItemsDashboard/fecha.png";
-import frame from "../assets/ItemsDashboard/frame.png";
+import star4 from "../assets/ItemsDashboard/Star4.png";
+import fecha from "../assets/ItemsDashboard/Fecha.png";
+import frame from "../assets/ItemsDashboard/Frame.png";
 
 const DashboardPage = () => {
   const stats = [

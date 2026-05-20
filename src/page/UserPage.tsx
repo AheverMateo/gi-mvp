@@ -1,5 +1,5 @@
 import gandi from "../assets/GandiBlue.png";
-import editWhite from "../assets/editWhite.png";
+import editWhite from "../assets/EditWhite.png";
 import UserEdit from "../components/UserEdit";
 
 const UserPage = () => {
