@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Albert+Sans:wght@100..900&display=swap');
+@import "tailwindcss";
+@import "tw-animate-css";
+
+
+@theme {
+  --background-image-mi-gradiente: linear-gradient(
+    106.52deg,
+    #00C5D0 -0.79%,
+    #628EE6 57.54%,
+    #B616C2 115.86%
+  );
+
+  --font-albert: "Albert Sans", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
